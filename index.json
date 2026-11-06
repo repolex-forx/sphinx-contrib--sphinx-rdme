@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "sphinx-rdme",
+  "versions": [
+    {
+      "commit": "d1614380ccde078fbfdf27d004eeedde514c23b5",
+      "tag": "v1.0.0",
+      "parsed_at": "2026-11-06T18:35:12.330546+00:00"
+    }
+  ]
+}
